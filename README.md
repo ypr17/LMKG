@@ -5,4 +5,8 @@ Our open-source project is based on the MIT license, which allows users to freel
 
 The Google Drive for LMKG data and the manual evaluation records can be downloaded at: https://drive.google.com/drive/folders/13oDTHUnkgaN__pw_XKGEotmu97odmUpF?usp=drive_link
 
+![image](https://github.com/ypr17/LMKG/blob/main/vis.png)
+
 The management interface can be accessed by: http://43.140.200.9:7474, with the username _neo4j_ and password _20230408_. This interface is based on Neo4j and provides a search and query functionality, allowing users to easily search for specific knowledge entries.
+
+![image](https://github.com/ypr17/LMKG/blob/main/neo4j.png)
